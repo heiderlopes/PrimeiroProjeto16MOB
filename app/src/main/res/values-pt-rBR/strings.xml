@@ -7,4 +7,6 @@
     <string name="hint_altura">Exemplo: 1.7</string>
     <string name="botao_calcular">Calcular</string>
     <string name="botao_limpar">Limpar</string>
+    <string name="label_titulo_resultado">Seu IMC é</string>
+    <string name="label_rodape">Desenvolvido por MIM</string>
 </resources>
